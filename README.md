@@ -2,6 +2,8 @@
 
 The exercice is adapted to use Hooks (converted all Class components to Function components. useContext instead pass props. Use useEffect)
 
+Example here; http://localhost:3000/
+
 API used:
 randomuser.me
 
